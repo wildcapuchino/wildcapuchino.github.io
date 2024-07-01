@@ -1,0 +1,11 @@
+# Directories
+dist
+lib
+node_modules
+
+# Files
+.DS_Store
+*.log
+
+# Exceptions
+!.gitkeep
